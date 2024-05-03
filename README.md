@@ -16,10 +16,22 @@
 Simple run at the terminal:
 
 ```sh
+make
+```
+
+Or if you don't have make and do it manually:
+
+```sh
 ./generate.js
 ```
 
 # uninstall
+
+```sh
+make uninstall
+```
+
+Or manually:
 
 ```sh
 rm -rf ~/.config/gtk-*
