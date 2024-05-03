@@ -1,0 +1,9 @@
+{
+  "control_button_style": 5,
+  "traffic_light_colors": true,
+  "hovered_traffic_light_colors": true,
+  "unfocused_traffic_light_colors": true,
+  "button_color": [1,1,1,1],
+  "hovered_button_color": [1,1,0,1],
+  "unfocused_button_color": [0.2,0.2,0.2,1]
+}
